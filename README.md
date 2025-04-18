@@ -1,5 +1,7 @@
 # libnx modular application
 
+## **IMPORTANT!** this project is no longer continued.
+
 ## Modules
 
 - Every module must be in its subdir (suggestion: copy the sample `module`)
